@@ -1,3 +1,4 @@
 # html
-- changing the title displayed in the browser tab \n
+- changing the title displayed in the browser tab
+
 `<title>Hasan's Website</title>`
